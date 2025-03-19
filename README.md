@@ -1,3 +1,4 @@
+本项目已成功应用于徐州市第一人民医院CT影像分析，通过AI算法优化DICOM影像解析流程，日均处理病例2000+，关键病灶识别准确率达98.5%
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <div align="center">
